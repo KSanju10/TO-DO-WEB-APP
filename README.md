@@ -41,11 +41,3 @@ A modern and user-friendly To-Do List web application that helps you organize yo
 
 3. **Filtering Tasks**
    - Use the filter buttons to view All, Pending, or Completed tasks
-
-## Browser Support
-
-The application works on all modern browsers that support ES6+ JavaScript features.
-
-## License
-
-This project is open source and available under the MIT License. 
