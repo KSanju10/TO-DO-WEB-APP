@@ -44,4 +44,4 @@ A modern and user-friendly To-Do List web application that helps you organize yo
   
 
 ## 🖼️ Preview
-![TaskMaster Screenshot](path/to/image.jpg)
+![TaskMaster Screenshot]([index.html](https://github.com/KSanju10/TO-DO-WEB-APP/edit/main/README.md#:~:text=image.jpg))
