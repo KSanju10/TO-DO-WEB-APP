@@ -15,9 +15,9 @@ A modern and user-friendly To-Do List web application that helps you organize yo
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript
 - Local Storage API
 - Font Awesome Icons
 
