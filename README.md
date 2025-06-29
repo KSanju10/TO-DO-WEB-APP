@@ -41,7 +41,4 @@ A modern and user-friendly To-Do List web application that helps you organize yo
 
 3. **Filtering Tasks**
    - Use the filter buttons to view All, Pending, or Completed tasks
-  
 
-## 🖼️ Preview
-![TaskMaster Screenshot]([index.html](https://github.com/KSanju10/TO-DO-WEB-APP/edit/main/README.md#:~:text=image.jpg))
